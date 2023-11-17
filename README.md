@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @M-Rajabzadeh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-
-<!---
-M-Rajabzadeh/M-Rajabzadeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Mohammad Rajabzadeh
+- 🌱 I’m currently learning Python
+- 📫 How to reach me m.rajabzadeh.works@gmail.com
